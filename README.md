@@ -1,1 +1,1 @@
-# project_git_dpro
+課題用のProject
